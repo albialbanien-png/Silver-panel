@@ -1,1 +1,21 @@
+[
+  {
+    "licence": "Silver",
+    "expire": "2027/03/02",
+    "max_devices": "1",
+    "allowed_devices": [87ba5991ae7c694c]
+  },
+  {
+    "licence": "",
+    "expire": "2027/03/02",
+    "max_devices": "1",
+    "allowed_devices": [""]
+  },
+  {
+    "licence": "",
+    "expire": "2027/03/02",
+    "max_devices": "3",
+    "allowed_devices": ["87ba5991ae7c694c", "7a1b90c34e567812"]
+  }
+]
 
